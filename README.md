@@ -81,7 +81,7 @@ The data used for this analysis was sourced from historical agricultural records
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/Mrigendra488/Agricultural-Analysis
 
 2. Ensure you have access to the AWS data storage and Snowflake data warehouse.
 3. Load the data into Power BI using the provided dataset.
